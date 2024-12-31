@@ -28,7 +28,7 @@ function validatePhoneNumber(phoneNumber) {
   return regex.test(phoneNumber);
 }
 
-module.exports = validatePhoneNumber;
+export default validatePhoneNumber; // Use ES module export
 
 /*
   Regular Expression Breakdown:
