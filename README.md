@@ -23,4 +23,5 @@ npm install nepali-phone-number-validator
 
 ```code
 import validatePhoneNumber from 'nepali-phone-number-validator';
+const isPhoneNumberValid = validatePhoneNumber("9800000000)
 ```
