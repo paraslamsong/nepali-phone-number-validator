@@ -21,7 +21,9 @@ To install the package via npm, create a `package.json` file and run:
 npm install nepali-phone-number-validator
 ```
 
+### Code
+
 ```code
 import validatePhoneNumber from 'nepali-phone-number-validator';
-const isPhoneNumberValid = validatePhoneNumber("9800000000)
+const isPhoneNumberValid = validatePhoneNumber("9800000000")
 ```
