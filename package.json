@@ -1,6 +1,6 @@
 {
   "name": "nepali-phone-number-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nepali Phone Number Validator is a tool designed to validate phone numbers from Nepal. It checks if a given phone number is valid according to the official structure of Nepalese mobile numbers. This includes verifying the number's length, correct format, and adherence to the standard prefix for mobile carriers in Nepal. The validator ensures that the phone number follows the guidelines set by Nepal's telecommunication authorities, helping users avoid errors and ensuring that phone numbers are legitimate and ready for use in communication.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "validator"
   ],
   "author": "Er. Paras Rai",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/paraslamsong/nepali-phone-number-validator/issues"
   },
